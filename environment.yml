@@ -4,5 +4,5 @@ channels:
 dependencies:
   - python>=3.6
   - pip>=19.0
-  - compas>=1.0
+  - compas>=1.4
   - compas_view2
