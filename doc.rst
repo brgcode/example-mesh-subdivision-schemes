@@ -2,8 +2,6 @@
 Mesh Subdivision Schemes
 ************************
 
-.. sectionauthor:: tom van mele <van.mele@arch.ethz.ch>
-
 .. figure:: image.png
     :figclass: figure
     :class: figure-img img-fluid
@@ -27,4 +25,3 @@ From left to right:
 
 .. literalinclude:: script.py
     :language: python
-    :linenos:
