@@ -2,7 +2,7 @@
 Mesh Subdivision Schemes
 ************************
 
-.. figure:: image.png
+.. figure:: mesh-subdivision-schemes.png
     :figclass: figure
     :class: figure-img img-fluid
 
